@@ -1,4 +1,4 @@
-# Experiment #2 – Time Domain Analysis Using MATLAB
+# Time Domain Analysis Using MATLAB
 
 This project implements time domain analysis of **First Order** and **Second Order** systems using MATLAB.
 
